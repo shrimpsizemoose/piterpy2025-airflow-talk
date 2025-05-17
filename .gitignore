@@ -1,0 +1,9 @@
+airflow-exmpl/airflow.db
+airflow-exmpl/airflow.cfg
+airflow-exmpl/logs/
+airflow-exmpl/simple_auth_manager_passwords.json.generated
+
+dagster-quickstart/data/processed_data.csv
+
+**/.python-version
+**/__pycache__
